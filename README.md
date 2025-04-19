@@ -26,8 +26,8 @@
 
 ## 📸 Example Outputs
 
-### Iran
-![image alt](https://github.com/SaeidDaliriSusefi/Air-Temperature-Monitoring/blob/2ebe7b06b8636abddda8181e32e8faba05ff2318/Images/Ex1.png)
+### Italy
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Monitoring/blob/eb0c9eb84df6b023c7b98a89375d2aba36b6fb9a/Images/Precipitation_Plots.png)
 
 
 
