@@ -1,4 +1,4 @@
-# 🌍 Air Precipitation Trend Analysis using Google Earth Engine & Python
+# 🌍 Precipitation Trend Analysis using Google Earth Engine & Python
 
 
 
