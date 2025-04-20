@@ -7,18 +7,19 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 ### Italy
 
-#### Precipitation
+#### Precipitation:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Monitoring/blob/ae74f846c1a1d8cdcd5c34f47d69fa3148a2118b/Images/Precipitation_plots.png)
 
 
-#### Trend Chart
+#### Trend Chart:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Monitoring/blob/ed7e53725cec5d48518939a88ff744f6e209f623/Images/PrecipitationTrend_Chart.png)
 
 
-
-
-
 #### Trend Map
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Monitoring/blob/baadddd39178d11032405b80cd59cfaa3f1b51b3/Images/PrecipitationTrend_Plot.png)
+
+
+
 
 
 ## 📜 License
