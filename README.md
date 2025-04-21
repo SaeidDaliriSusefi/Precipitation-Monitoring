@@ -28,13 +28,13 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 ### Iran
 
-#### Interactive Map of Annual Total Precipitation:
+#### Interactive Map of Total Annual Precipitation:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/dec3dd632151db0f2de971cb55639292a9f96074/Images/Interactive%20Map.PNG)
 
 
 
 
-#### Annual Total Precipitation Plots:
+#### Total Annual Precipitation Plots:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/d3e6f529dbb83ad6c5ab67bbbf687ab1a27cfb0b/Images/Plots.png)
 
 
