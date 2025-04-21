@@ -7,7 +7,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 ### Italy
 
-#### Interactive Map of Annual Total Precipitation:
+#### Interactive Map of Total Annual Precipitation:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/60e88bb5edb6933c54623ac5789baa93ae1e3680/Images/Interactive%20Map_Italy.PNG)
 
 
