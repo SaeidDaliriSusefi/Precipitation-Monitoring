@@ -27,24 +27,24 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 
 #
-### Iran
+### Italy
 
 #### Interactive Map of Annual Total Precipitation:
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/dec3dd632151db0f2de971cb55639292a9f96074/Images/Interactive%20Map.PNG)
+![image alt]()
 
 
 
 
 #### Annual Total Precipitation Plots:
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/d3e6f529dbb83ad6c5ab67bbbf687ab1a27cfb0b/Images/Plots.png)
+![image alt]()
 
 
 #### Average Annual Precipitation Trend Chart:
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/c3b4f00fe93e3367f0787bbcb4669ef424219621/Images/Trend_Chart.png)
+![image alt]()
 
 
 #### Trend Map
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/6b8a02cc51148bfe7293a2b5d47a72460607c2c4/Images/Trend_Plot.png)
+![image alt]()
 
 
 
