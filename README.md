@@ -13,7 +13,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 
 
-#### Precipitation Plots:
+#### Yearly Total Precipitation Plots:
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/d3e6f529dbb83ad6c5ab67bbbf687ab1a27cfb0b/Images/Plots.png)
 
 
