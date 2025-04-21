@@ -22,7 +22,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 
 #### Trend Map
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Monitoring/blob/baadddd39178d11032405b80cd59cfaa3f1b51b3/Images/PrecipitationTrend_Plot.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/6b8a02cc51148bfe7293a2b5d47a72460607c2c4/Images/Trend_Plot.png)
 
 
 
