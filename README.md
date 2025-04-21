@@ -40,7 +40,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 
 #### Average Annual Precipitation Trend Chart:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/b102d72b1a47e2b062d5931b79c9cae7d61115a7/Images/Trend_Chart_Italy.png)
 
 
 #### Trend Map
