@@ -36,7 +36,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 
 
 #### Annual Total Precipitation Plots:
-![image alt]()
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/5fb623691a5ac671c82aea3c4991dd3c222fc167/Images/Plots_Italy.png)
 
 
 #### Average Annual Precipitation Trend Chart:
