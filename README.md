@@ -29,7 +29,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/f141e36b320005ab8d06ff5f2e2dabddcee802ad/Images/Anomaly%20Average%20Total%20Prcipitation%20Respect%20to%20Average%20Yearly%201980%20Italy.png)
 
 ### Total Precipitation Trend:
-![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/f141e36b320005ab8d06ff5f2e2dabddcee802ad/Images/Trend%20Italy.png)
+![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/2e10915bd7d2264463e6a2f68966e0a3151fafc5/Images/Trend%20Italy%20(2).png)
 
 
 
