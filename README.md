@@ -10,7 +10,7 @@ This repository contains a Python-based workflow to analyze long-term precipitat
 ### Italy (1980-2020):
 
 #### Annual Total Prcipitation:
-![Image](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/8e8a6f2a20d9605b9f65818ac5eac0e7afde31d0/Images/Yearly%20Average%20Total%20Prcipitation%20Italy.gif)
+                     ![Image](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/8e8a6f2a20d9605b9f65818ac5eac0e7afde31d0/Images/Yearly%20Average%20Total%20Prcipitation%20Italy.gif)
 ![image alt](https://github.com/SaeidDaliriSusefi/Precipitation-Trend-Monitoring/blob/a896813bea0c75172e1622dbc47a905ade3899d4/Images/Yearly%20Average%20Total%20Prcipitation%20Italy.png)
 
 
